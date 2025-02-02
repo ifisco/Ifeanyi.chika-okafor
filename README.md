@@ -58,6 +58,7 @@ My background in Electrical and Electronics Engineering exposed me to networking
     <img src="https://img.shields.io/badge/-Metasploit-039BE5?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zenmap-8E24AA?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/Nessus-00BFFF?style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shodan-FF6347?style=for-the-badge&logo=Shodan&logoColor=white" />
 
 
 </div>

@@ -1,5 +1,5 @@
 # Hello, I'm Ifeanyi
-<a href="www.linkedin.com/in/ifeanyi-chika-okafor-537706174"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ifeanyi-chika-okafor-537706174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
@@ -25,7 +25,7 @@ My background in Electrical and Electronics Engineering exposed me to networking
 |  **Ethical Hacking & Penetration Testing** - Perfomed MITM using a tool to simulate real world threats  | <a href="https://docs.google.com/presentation/d/1JYT9C3uwFI9VuM2ehhacEx3YTJkI-51WPYLBSCh-qwM/edit?usp=sharing">Bootcon (MITM attack)</a>|
 |  **Security Research & Tool Implementation** - Explored the BetterCap tool and deployed it effectively in a virtualized test network| <a href="https://docs.google.com/presentation/d/1JYT9C3uwFI9VuM2ehhacEx3YTJkI-51WPYLBSCh-qwM/edit?usp=sharing">Bootcon (MITM attack)</a>|
 |   **Presentation & Technical Communication** - I structured and delivered a cybersecurity presentation, explaining complex topics like ARP spoofing, packet interception, and network security best practices in an engaging way.| <a href="https://docs.google.com/presentation/d/1JYT9C3uwFI9VuM2ehhacEx3YTJkI-51WPYLBSCh-qwM/edit?usp=sharing">Bootcon (MITM attack)</a>|
-|  | <a href="https://google.com"></a>|
+
 
 ## Tools
 

@@ -7,7 +7,7 @@ I am a graduate of engineering with a profound interest in technology and a dedi
 ## Objective
 
 
-My background in Electrical and Electronics Engineering exposed me to networking, embedded systems, and IoT devices, where I realized how vulnerable these technologies can be to cyber threats. This sparked my curiosity about cybersecurity, leading me to explore ethical hacking, penetration testing, and digital forensics. My engineering expertise gives me a unique perspective of both hardware and software systems, driving my passion for cybersecurity.
+My background in Electrical and Electronics Engineering exposed me to networking, embedded systems, and IoT devices, where I realized how vulnerable these technologies can be to cyber threats. This sparked my curiosity about cybersecurity, leading me to explore ethical hacking, penetration testing, SIEM, and digital forensics to name a few. My engineering expertise gives me a unique perspective of both hardware and software systems, driving my passion for cybersecurity.
 
 ## Skills
 
@@ -19,7 +19,7 @@ My background in Electrical and Electronics Engineering exposed me to networking
 | **Wireless & DNS Security** – Analyze wireless beacon signals with Wireshark, capture BSSIDs/SSIDs, assess WAP security, decrypt wireless traffic with Aircrack-ng, validate DNS records using nslookup | Networking CTF |
 | **Azure** - Expertise in developing and securing web applications using Azure Cloud services, Docker, SSL certificate management with Azure Key Vault, and implementing security measures like Azure WAF and Security Center | <a href="https://google.com">Security cloud applications</a>|
 | **Web Exploitation** – XSS Vulnerabilities & Payloads, SQL Injection, Webshells, File Inclusion, Command Injection | <a href="https://yourprojectlink.com">Offensive security CTF</a>|
-| **Network Exploitation** – Burp Suite, Zenmap, Pivoting Networks, Metasploit, Searchsploit | <a href="https://yourprojectlink.com">Offensive security CTF</a>|
+| **Network Exploitation** – Burp Suite, Zenmap, Pivoting Networks, Metasploit, Searchsploit, Nessus | <a href="https://yourprojectlink.com">Offensive security CTF</a>|
 | **Penetration Testing Methodologies** – Penetration Testing Execution Standard (PTES) | <a href="https://yourprojectlink.com">Offensive security CTF</a> |
 |  | <a href="https://google.com"></a>|
 |          | <a href="https://google.com"></a>|
@@ -43,6 +43,8 @@ My background in Electrical and Electronics Engineering exposed me to networking
 <div>
     <img src="https://img.shields.io/badge/OpenSSL-8C8C8C?style=for-the-badge&logo=OpenSSL&logoColor=white" />
     <img src="https://img.shields.io/badge/Hashcat-FF6347?style=for-the-badge&logo=Hashcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/John%20the%20Ripper-990000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
 </div>
 
 ### Cloud
@@ -63,14 +65,14 @@ My background in Electrical and Electronics Engineering exposed me to networking
 
 </div>
 
-<!--### SIEM
+### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 </div>
 
-### Forensics
+<!--### Forensics
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
@@ -90,5 +92,5 @@ My background in Electrical and Electronics Engineering exposed me to networking
 - Netwoking CTF
 - Securing Cloud Applications
 - Offensive security CTF
-<!-- -  Building a Security Monitoring Environment
+-  Building a Security Monitoring Environment
 -  BootCon

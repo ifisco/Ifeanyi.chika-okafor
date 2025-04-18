@@ -89,7 +89,7 @@ My background in Electrical and Electronics Engineering exposed me to networking
 </div>
 -->
 ## Projects
-- Netwoking CTF
+- Networking CTF
 - <a href="https://docs.google.com/document/d/1yxgL4fWyqWZwVJDnDOvXly_kfn-R2SG0HlRQ9vbHWrc/edit?usp=sharing">Security cloud applications</a>
 - <a href="https://docs.google.com/document/d/18SCFGCajgRNCA9m-Qa8kMGcvHPcrmJDJd3F2KB1I-mo/edit?usp=sharing">Offensive security CTF</a>
 -  <a href="https://docs.google.com/presentation/d/1C0ZXK9zJ4hBy1ROD_AECHc5q5DNI6TtIPVl83hiObZk/edit?usp=sharing">Building a security monitoring Environment (SIEM)</a>
